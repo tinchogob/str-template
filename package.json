@@ -1,6 +1,6 @@
 {
   "name": "str-template",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "String templates for in depth properties replacements",
   "main": "index.js",
   "scripts": {
@@ -27,5 +27,6 @@
   "dependencies": {
     "lodash": "^3.10.1",
     "mocha": "^2.3.4"
-  }
+  },
+  "tonicExample": "tonicExample.js"
 }
