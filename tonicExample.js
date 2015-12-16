@@ -1,4 +1,4 @@
-var interpolate = require('str-tmplate');
+var interpolate = require('str-template');
 
 var data = {
 	string: 'Martin',

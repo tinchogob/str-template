@@ -1,6 +1,6 @@
 {
   "name": "str-template",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "String templates for in depth properties replacements",
   "main": "index.js",
   "scripts": {
